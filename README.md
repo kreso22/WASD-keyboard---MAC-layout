@@ -11,3 +11,11 @@
 ![Alt text](whole.png "Example")
      
      Keyboard in photo is 84 key, but layout can serve for full keyboard as well.
+     
+     
+     
+     To import setting file to KeyMapper4MacBook"
+     - install app,
+     - download kr4mb-wasd.sh to Desktop,
+     - use: "sh ~/Desktop/kr4mb-import.sh"
+     The settings file will only map fn key & add support for media keys (F1-F12)
